@@ -1,0 +1,40 @@
+{
+    "en": {
+        "play": "Play",
+        "options": "Options",
+        "exit": "Exit",
+        "resolution": "Resolution",
+        "opponent": "Opponent",
+        "opponents": ["AI", "Human"],
+        "board": "Board",
+        "language": "Language",
+        "back": "Back",
+        "turn": "Turn",
+        "player": "Player",
+        "points": "Points",
+        "select_letter": "Select Letter",
+        "player_1": "Player 1",
+        "player_2": "Player 2",
+        "draw": "Draw",
+        "winner": "Winner"
+    },
+    "es": {
+        "play": "Jugar",
+        "options": "Opciones",
+        "exit": "Salir",
+        "resolution": "Resolución",
+        "opponent": "Oponente",
+        "opponents": ["IA", "Humano"],
+        "board": "Tablero",
+        "language": "Idioma",
+        "back": "Atrás",
+        "turn": "Turno",
+        "player": "Jugador",
+        "points": "Puntos",
+        "select_letter": "Seleccionar letra",
+        "player_1": "Jugador 1",
+        "player_2": "Jugador 2",
+        "draw": "Empate",
+        "winner": "Ganador"
+    }
+}

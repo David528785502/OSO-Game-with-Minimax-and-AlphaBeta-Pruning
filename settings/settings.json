@@ -1,0 +1,35 @@
+{
+    "resolutions": [
+        [
+            400,
+            300
+        ],
+        [
+            800,
+            600
+        ]
+    ],
+    "current_resolution": [
+        800,
+        600
+    ],
+    "languages": [
+        "es",
+        "en"
+    ],
+    "current_language": "es",
+    "opponents": [
+        "ia",
+        "human"
+    ],
+    "current_opponent": "human",
+    "board_sizes": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "current_board_size": 4
+}
